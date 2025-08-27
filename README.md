@@ -31,4 +31,28 @@ https://www.youtube.com/watch?v=KA-tS9ItmUk
 ## Video 12: Nhóm nghiên cứu về thị giác máy tính	Bài giảng 12 (Phần 2)
 https://www.youtube.com/watch?v=ZwL2TctCZeY
 
+# Ôn Tập
+
+## Hướng dẫn 01: Tổ chức	
+https://www.youtube.com/watch?v=2jz_jf4QSXg
+## Bài hướng dẫn 02: Ôn tập Toán	
+https://www.youtube.com/watch?v=F6SUbDWyI6I
+## Hướng dẫn 03: Dữ liệu	
+https://www.youtube.com/watch?v=tanLcLepOt8
+## Hướng dẫn 04: Phân loại đơn giản	
+https://www.youtube.com/watch?v=jQtfm-a36Rg
+## Hướng dẫn 05: Mạng nơ-ron	
+https://www.youtube.com/watch?v=6kXDaoEC9YY
+## Hướng dẫn 06: Điều chỉnh siêu tham số	
+https://www.youtube.com/watch?v=XQ5fcZlT_mI
+## Hướng dẫn 07: PyTorch	
+https://www.youtube.com/watch?v=BSfnQWt9WVY
+## Hướng dẫn 08: Autoencoder	
+https://www.youtube.com/watch?v=lTMWFI_eL9Y
+## Hướng dẫn 09: Mạng nơ-ron tích chập	
+https://www.youtube.com/watch?v=FNgjD0TQ6AY
+## Hướng dẫn 10: Phân đoạn ngữ nghĩa	
+https://www.youtube.com/watch?v=LlYjAhI3Dq4
+## Hướng dẫn 11: NLP	
+https://www.youtube.com/watch?v=yWIEfwtaoRg
 
